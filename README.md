@@ -62,5 +62,6 @@ Electronics graduate interested in AI automation, intelligent systems, and workf
 
 Hadid Mouadh
 
+![Workflow Architecture](8.png)
 
 
